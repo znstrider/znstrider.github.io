@@ -19,7 +19,7 @@ warnings.filterwarnings('ignore')
 
 Let's first read in the data.
 
-If you have not read my article on getting and processing the data https://github.com/znstrider/znstrider.github.io/blob/master/_posts/2018-11-11-Getting_Started_with_StatsBomb_Data.md, you can do so now.
+If you have not read my [article on getting and processing the data](https://github.com/znstrider/znstrider.github.io/blob/master/_posts/2018-11-11-Getting_Started_with_StatsBomb_Data.md), you can do so now.
 
 Since first posting that article, I have updated it to include a lineups DataFrame that includes minutes played for every player and every match.<br>
 We can use that later on to adjust actions for time played.
@@ -100,7 +100,7 @@ The same holds for a lot of other positional patterns. You will see this in the 
 
 To sum it up the model learns spatial components specific to groups of players, and allows us to measure how heavily involved players are in those topics.
 
-I deliberately tried to keep this explanation simple. Justin Jacobs (@squared2020) has a really good blog post up at https://squared2020.com/2018/10/04/understanding-trends-in-the-nba-how-nnmf-works/ that goes into a little more detail for those interested in the technicalities.
+I deliberately tried to keep this explanation simple. Justin Jacobs (@squared2020) has a really good [blog post](https://squared2020.com/2018/10/04/understanding-trends-in-the-nba-how-nnmf-works/) that goes into a little more detail for those interested in the technicalities.
 
 Now let's dig into the actual analysis:
 
