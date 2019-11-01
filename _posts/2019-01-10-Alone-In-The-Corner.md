@@ -6,7 +6,7 @@ theme: jekyll-theme-midnight
 
 For a long time I - as many people - was under the impression that goals from corners are largely due to randomness. Whenever my team conceded a goal from a corner I would lament the recurrent luck of the opposing team, and wish that luck could just once go our way.
 
-Enter FC Midtjylland and Ted Knutson's piece (https://statsbomb.com/2017/02/changing-how-the-world-thinks-about-set-pieces/) on set pieces.
+Enter FC Midtjylland and [Ted Knutson's piece](https://statsbomb.com/2017/02/changing-how-the-world-thinks-about-set-pieces/) on set pieces.
 Now there was a team absolutely smashing it on set pieces. Not only did they score heaps on corners and free kicks, they also scored tons from throw-ins. Yeah, that's right. Goddamn throw-Ins.
 And there was Ted, one of the household names in football analytics having played a decisive role in devising Midtjylland's set piece program, claiming it is all trainable.
 
@@ -19,7 +19,7 @@ But though I am sorry to smash that view, actually it was just inspired by a vis
 
 There is also prior research on set pieces available.
 Most prominently Paul Power et al. from STATS have taken a detailed look at scoring rates from set pieces - including in- vs outswinging corners, direct shots vs flick-ons and shots from second balls, and also analyzed the impact of how a corner is defended - zonal vs man-marking and hybrid schemes, as well as men on the posts.
-If you are deeply interested in this topic, definitely go read the paper. (http://www.sloansportsconference.com/wp-content/uploads/2018/02/2007.pdf)
+If you are deeply interested in this topic, definitely go [read the paper.](http://www.sloansportsconference.com/wp-content/uploads/2018/02/2007.pdf)
 
 I will look to replicate a few of his mythbusting findings, have a detailed look at some numbers and develop a few visualizations that help in<br>
 a) categorizing delivery schemes and target zones<br>
@@ -52,7 +52,7 @@ Additionally, I had recently written an article on Non-Negative Matrix Factoriza
 The algorithm then learns n spatial components comprised of weights from all the bins and weights for each team which state how much a team uses a given spatial component.
 
 The benefits of this are that this reduces the complexity back into a managable size and allows us to find patterns inherit in the data.
-I described it in a little more detail in my artile here if you are interested: https://github.com/znstrider/znstrider.github.io/blob/master/_posts/2018-11-14-SBData-NMF.md
+I described it in a little more detail [in my article here](https://github.com/znstrider/znstrider.github.io/blob/master/_posts/2018-11-14-SBData-NMF.md) if you are interested: 
 
 Applying a 2x2 yard binning with n = 5, gave me the following spatial components:
 
@@ -97,8 +97,7 @@ Before touching on these points I will first show you how I chose to divide the 
 
 ![png](/images/Alone_in_the_Corner_Files/Corner_Target_Zones.png)
 
-added note: This is actually quite similar to how Craig Pulling (also based on prior work) divided delivery zones in his Paper<br><b>LONG CORNER KICKS IN THE ENGLISH PREMIER LEAGUE: DELIVERIES INTO THE GOAL AREA AND CRITICAL AREA.</b><br>
-(https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwj8idrQxeLfAhXEJ1AKHayRC0wQFjAAegQIBRAC&url=https%3A%2F%2Fhrcak.srce.hr%2Ffile%2F221525&usg=AOvVaw0EG58uN8gy9veX_6004OGo)
+added note: This is actually quite similar to how Craig Pulling (also based on prior work) divided delivery zones in his Paper [LONG CORNER KICKS IN THE ENGLISH PREMIER LEAGUE: DELIVERIES INTO THE GOAL AREA AND CRITICAL AREA.](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwj8idrQxeLfAhXEJ1AKHayRC0wQFjAAegQIBRAC&url=https%3A%2F%2Fhrcak.srce.hr%2Ffile%2F221525&usg=AOvVaw0EG58uN8gy9veX_6004OGo)
 
 So what may I have decided differently?
 
