@@ -1,7 +1,6 @@
 ---
 layout: page
-title:
-subtitle: About me
+title: About me
 ---
 
 Hi!
