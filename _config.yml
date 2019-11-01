@@ -65,7 +65,7 @@ author:
 social-network-links:
   rss: true
   email: "mindfulstrider@gmail.com"
-  facebook: 
+#  facebook: 
   github: znstrider
   twitter: danzn1
 #  reddit: yourname
@@ -89,7 +89,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "znstrider.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
