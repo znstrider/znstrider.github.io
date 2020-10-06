@@ -92,27 +92,19 @@ Unter zwei vergleichbar guten Spielern hat der jüngere in der Regel das höhere
 
 ### Der Relative Age Effect visuell verdeutlicht
 
-<tr>
 <div>
     <img src="/images/RAE_files/gifs/player_development.gif" width="50%" style="float: left;">
 </div>
-</tr>
 
-<tr>
 ### Eine Möglichkeit, Leistungslevels zwischen jüngeren und älteren Spielern innerhalb einer Altersklasse besser vergleichbar zu machen
-</tr>
 
-<tr>
 <div>
     <img src="/images/RAE_files/gifs/altersklassen.gif" width="90%" style="float: left;">
 </div>
-</tr>
 
-<tr>
 ### Methoden:
-</tr>
 
-<tr>
+<div>
 Um den Relative Age Effect in deutschen Jugendfußballakademien zu untersuchen, habe ich 
 für 54 Nachwuchsleistungszentren die Kader der U19 Mannschaften mit 21431 Spielereinträgen, davon 11146 einzigartigen Spielern von Transfermarkt.de analysiert.  
 Für 7869 dieser Spieler (70.6%) waren die Geburtsdaten verfügbar.
@@ -132,7 +124,7 @@ Um die Erfolgswahrscheinlichkeit den professionellen Fußball zu erreichen zu be
 Für die Modellierung der Spielzeit (Faktor von 90 Minuten) in der U19 nach Geburtsmonat habe ich ein Zero-Inflated Poisson Model benutzt, da verhältnismäßig viele Spieler keine Spielzeit erhalten. 
 
 Alle Modelle habe ich mit dem Probabilistic Programming Package PyMC3 in Python implementiert.
-</tr>
+</div>
 
 ### Referenzen:
 
