@@ -51,7 +51,7 @@ Sie schaffen es um bis zu etwa 30% häufiger 1500 Minuten oder mehr in der 3. Li
 <tr>
     <th>
         <div>
-        <img src="/images/RAE_files/images/Reverse_Relative_Age_Effect_in_German_Academies.png" width="50%">
+        <img src="/images/RAE_files/images/Reverse_Relative_Age_Effect_in_German_Academies.png" width="30%">
         </div>
     </th>
     <th>
@@ -59,7 +59,6 @@ Sie schaffen es um bis zu etwa 30% häufiger 1500 Minuten oder mehr in der 3. Li
         Dieser Effekt ist positiv und liegt für Spieler, die in der letzten Woche geboren sind, gegenüber in Spielern die in der ersten Woche geboren sind, mit 98%iger Wahrscheinlichkeit zwischen 7% und 57%.
         </div>
     </th>
-
 </tr>
 
 ### Spielzeiten in den U19 Mannschaften
