@@ -17,13 +17,13 @@ Um den Relative Age Effekt in den deutschen U19 Nachwuchsleistungszentren zu ana
 
 ### Was sagen die Daten?
 
-![RAE_overview](images/RAE_files/images/RAE_overview.png)
+![RAE_overview](/images/RAE_files/images/RAE_overview.png)
 
 Die Daten belegen eine stark ausgeprägte Überrepräsentation von früh im Jahr geborenen Spielern.  
 Im Durchschnitt sind die in einem Jahrgang ältesten Spieler 5 mal häufiger vertreten als Spieler, die in der letzten Woche des Jahres geboren sind.
 
 <div width="300">
-    <img src="images/RAE_files/images/Relative_Age_Effect_in_German_U19_Youth_Academies.png" width="66%" style="float: left;">
+    <img src="/images/RAE_files/images/Relative_Age_Effect_in_German_U19_Youth_Academies.png" width="66%" style="float: left;">
 </div>
 
 Dieses Muster zeigt sich nicht nur in der Gesamtheit der U19 Spieler in den Nachwuchsleistungszentren, sondern in den U19 Akademien aller NLZs. Die Spanne reicht dabei von 40% mehr bis zu über 20 mal mehr in der ersten Woche geborenen Spielern.
@@ -31,7 +31,7 @@ Dieses Muster zeigt sich nicht nur in der Gesamtheit der U19 Spieler in den Nach
 ### Wie oft gelingt der Sprung in den Profifußball?
 
 <div width="300">
-    <img src="images/RAE_files/images/Which_levels_do_U19_Academy_NLZ_Players_reach.png" width="66%" style="float: left;">
+    <img src="/images/RAE_files/images/Which_levels_do_U19_Academy_NLZ_Players_reach.png" width="66%" style="float: left;">
 </div>
 
 Von 7352 vor 1999 geborenen Feldspielern haben es 1264 (~17.2%) in den Profibereich geschafft.  
@@ -45,13 +45,13 @@ Betrachtet man das Erreichen des Profilevels aufgeteilt nach Geburtswochen, kann
 Sie schaffen es um bis zu etwa 30% häufiger 1500 Minuten oder mehr in der 3. Liga oder einer höheren Spielklasse zu erreichen als Spieler, die in der ersten Woche geboren sind.
 
 <div width="300">
-    <img src="images/RAE_files/images/Reverse_Relative_Age_Effect_in_Becoming_a_Professional.png" width="66%" style="float: left;">
+    <img src="/images/RAE_files/images/Reverse_Relative_Age_Effect_in_Becoming_a_Professional.png" width="66%" style="float: left;">
 </div>
 
 <tr>
     <th>
         <div width="300">
-        <img src="images/RAE_files/images/Reverse_Relative_Age_Effect_in_German_Academies.png" width="100%">
+        <img src="/images/RAE_files/images/Reverse_Relative_Age_Effect_in_German_Academies.png" width="100%">
         </div>
     </th>
     <th>
@@ -72,7 +72,7 @@ Sie schaffen es um bis zu etwa 30% häufiger 1500 Minuten oder mehr in der 3. Li
     </th>    
     <th>
         <div width="300">
-        <img src="images/RAE_files/images/There_is_no_clear_difference_in_playtime_by_month_born.png" width="100%"/>
+        <img src="/images/RAE_files/images/There_is_no_clear_difference_in_playtime_by_month_born.png" width="100%"/>
         </div>
     </th>
 </tr>
@@ -94,13 +94,13 @@ Unter zwei vergleichbar guten Spielern hat der jüngere in der Regel das höhere
 ### Der Relative Age Effect visuell verdeutlicht
 
 <div width="300">
-    <img src="images/RAE_files/gifs/player_development.gif" width="50%" style="float: left;">
+    <img src="/images/RAE_files/gifs/player_development.gif" width="50%" style="float: left;">
 </div>
 
 ### Eine Möglichkeit, Leistungslevels zwischen jüngeren und älteren Spielern innerhalb einer Altersklasse besser vergleichbar zu machen
 
 <div width="300">
-    <img src="images/RAE_files/gifs/altersklassen.gif" width="90%" style="float: left;">
+    <img src="/images/RAE_files/gifs/altersklassen.gif" width="90%" style="float: left;">
 </div>
 
 ### Methoden:
