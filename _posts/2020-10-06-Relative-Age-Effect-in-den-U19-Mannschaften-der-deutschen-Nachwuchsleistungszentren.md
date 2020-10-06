@@ -51,7 +51,7 @@ Sie schaffen es um bis zu etwa 30% häufiger 1500 Minuten oder mehr in der 3. Li
 <tr>
     <th>
         <div>
-        <img src="/images/RAE_files/images/Reverse_Relative_Age_Effect_in_German_Academies.png" width="30%">
+        <img src="/images/RAE_files/images/Reverse_Relative_Age_Effect_in_German_Academies.png" width="29%">
         </div>
     </th>
     <th>
@@ -92,15 +92,19 @@ Unter zwei vergleichbar guten Spielern hat der jüngere in der Regel das höhere
 
 ### Der Relative Age Effect visuell verdeutlicht
 
-<div width="300">
+
+<div>
     <img src="/images/RAE_files/gifs/player_development.gif" width="50%" style="float: left;">
 </div>
 
+
 ### Eine Möglichkeit, Leistungslevels zwischen jüngeren und älteren Spielern innerhalb einer Altersklasse besser vergleichbar zu machen
 
-<div width="300">
+
+<div>
     <img src="/images/RAE_files/gifs/altersklassen.gif" width="90%" style="float: left;">
 </div>
+
 
 ### Methoden:
 
