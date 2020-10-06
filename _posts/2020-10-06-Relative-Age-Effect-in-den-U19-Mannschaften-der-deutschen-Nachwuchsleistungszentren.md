@@ -50,12 +50,12 @@ Sie schaffen es um bis zu etwa 30% häufiger 1500 Minuten oder mehr in der 3. Li
 
 <tr>
     <th>
-        <div width="300">
+        <div>
         <img src="/images/RAE_files/images/Reverse_Relative_Age_Effect_in_German_Academies.png" width="50%">
         </div>
     </th>
     <th>
-        <div width="500">
+        <div>
         Dieser Effekt ist positiv und liegt für Spieler, die in der letzten Woche geboren sind, gegenüber in Spielern die in der ersten Woche geboren sind, mit 98%iger Wahrscheinlichkeit zwischen 7% und 57%.
         </div>
     </th>
@@ -66,12 +66,12 @@ Sie schaffen es um bis zu etwa 30% häufiger 1500 Minuten oder mehr in der 3. Li
 
 <tr>
     <th>
-        <div width="500">
+        <div>
         Von der Spielzeit her gibt es in der U19 keine Unterschiede zwischen früh und spät im Jahr geborenen, obwohl diese wie in der Einleitung beschrieben, im Durchschnitt physisch weiter entwickelt sein sollten.
         </div>
     </th>    
     <th>
-        <div width="300">
+        <div>
         <img src="/images/RAE_files/images/There_is_no_clear_difference_in_playtime_by_month_born.png" width="50%"/>
         </div>
     </th>
