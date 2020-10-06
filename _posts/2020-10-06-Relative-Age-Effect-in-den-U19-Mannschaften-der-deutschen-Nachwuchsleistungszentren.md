@@ -23,7 +23,7 @@ Die Daten belegen eine stark ausgeprägte Überrepräsentation von früh im Jahr
 Im Durchschnitt sind die in einem Jahrgang ältesten Spieler 5 mal häufiger vertreten als Spieler, die in der letzten Woche des Jahres geboren sind.
 
 <div width="300">
-    <img src="/images/RAE_files/images/Relative_Age_Effect_in_German_U19_Youth_Academies.png" width="66%" style="float: left;">
+    <img src="/images/RAE_files/images/Relative_Age_Effect_in_German_U19_Youth_Academies.png" width="66%">
 </div>
 
 Dieses Muster zeigt sich nicht nur in der Gesamtheit der U19 Spieler in den Nachwuchsleistungszentren, sondern in den U19 Akademien aller NLZs. Die Spanne reicht dabei von 40% mehr bis zu über 20 mal mehr in der ersten Woche geborenen Spielern.
@@ -31,7 +31,7 @@ Dieses Muster zeigt sich nicht nur in der Gesamtheit der U19 Spieler in den Nach
 ### Wie oft gelingt der Sprung in den Profifußball?
 
 <div width="300">
-    <img src="/images/RAE_files/images/Which_levels_do_U19_Academy_NLZ_Players_reach.png" width="66%" style="float: left;">
+    <img src="/images/RAE_files/images/Which_levels_do_U19_Academy_NLZ_Players_reach.png" width="66%">
 </div>
 
 Von 7352 vor 1999 geborenen Feldspielern haben es 1264 (~17.2%) in den Profibereich geschafft.  
