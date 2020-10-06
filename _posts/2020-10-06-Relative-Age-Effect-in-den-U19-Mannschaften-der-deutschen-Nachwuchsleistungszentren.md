@@ -104,7 +104,6 @@ Unter zwei vergleichbar guten Spielern hat der jüngere in der Regel das höhere
 
 ### Methoden:
 
-<div>
 Um den Relative Age Effect in deutschen Jugendfußballakademien zu untersuchen, habe ich 
 für 54 Nachwuchsleistungszentren die Kader der U19 Mannschaften mit 21431 Spielereinträgen, davon 11146 einzigartigen Spielern von Transfermarkt.de analysiert.  
 Für 7869 dieser Spieler (70.6%) waren die Geburtsdaten verfügbar.
@@ -124,7 +123,6 @@ Um die Erfolgswahrscheinlichkeit den professionellen Fußball zu erreichen zu be
 Für die Modellierung der Spielzeit (Faktor von 90 Minuten) in der U19 nach Geburtsmonat habe ich ein Zero-Inflated Poisson Model benutzt, da verhältnismäßig viele Spieler keine Spielzeit erhalten. 
 
 Alle Modelle habe ich mit dem Probabilistic Programming Package PyMC3 in Python implementiert.
-</div>
 
 ### Referenzen:
 
