@@ -93,13 +93,13 @@ Unter zwei vergleichbar guten Spielern hat der jüngere in der Regel das höhere
 ### Der Relative Age Effect visuell verdeutlicht
 
 <div>
-    <img src="/images/RAE_files/gifs/player_development.gif" width="50%" style="float: left;">
+    <img src="/images/RAE_files/gifs/player_development.gif" width="50%">
 </div>
 
 ### Eine Möglichkeit, Leistungslevels zwischen jüngeren und älteren Spielern innerhalb einer Altersklasse besser vergleichbar zu machen
 
 <div>
-    <img src="/images/RAE_files/gifs/altersklassen.gif" width="90%" style="float: left;">
+    <img src="/images/RAE_files/gifs/altersklassen.gif" width="90%">
 </div>
 
 ### Methoden:
