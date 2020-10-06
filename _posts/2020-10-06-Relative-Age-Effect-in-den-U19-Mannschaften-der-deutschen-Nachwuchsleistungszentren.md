@@ -105,7 +105,7 @@ Unter zwei vergleichbar guten Spielern hat der jüngere in der Regel das höhere
 ### Methoden:
 
 Um den Relative Age Effect in deutschen Jugendfußballakademien zu untersuchen, habe ich 
-für 54 Nachwuchsleistungszentren die Kader der U19 Mannschaften mit 21431 Spielereinträgen, davon 11146 einzigartigen Spielern von Transfermarkt.de analysiert.  
+für 54 Nachwuchsleistungszentren die Kader der U19 Mannschaften seit der verpflichtenden Einführung der NLZ im Jahr 2001 mit insgesamt 21431 Spielereinträgen, davon 11146 einzigartigen Spielern von Transfermarkt.de analysiert.  
 Für 7869 dieser Spieler (70.6%) waren die Geburtsdaten verfügbar.
 
 Neben Spielerprofildaten habe ich die von Transfermarkt.de bestimmten Marktwertentwicklungen und Leistungsdaten nach Vereinen und Spielzeiten für jeden Spieler abgerufen.
