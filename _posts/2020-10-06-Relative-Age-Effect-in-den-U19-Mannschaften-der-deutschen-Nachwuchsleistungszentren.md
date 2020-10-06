@@ -51,7 +51,7 @@ Sie schaffen es um bis zu etwa 30% häufiger 1500 Minuten oder mehr in der 3. Li
 <tr>
     <th>
         <div width="300">
-        <img src="/images/RAE_files/images/Reverse_Relative_Age_Effect_in_German_Academies.png" width="100%">
+        <img src="/images/RAE_files/images/Reverse_Relative_Age_Effect_in_German_Academies.png" width="50%">
         </div>
     </th>
     <th>
@@ -72,7 +72,7 @@ Sie schaffen es um bis zu etwa 30% häufiger 1500 Minuten oder mehr in der 3. Li
     </th>    
     <th>
         <div width="300">
-        <img src="/images/RAE_files/images/There_is_no_clear_difference_in_playtime_by_month_born.png" width="100%"/>
+        <img src="/images/RAE_files/images/There_is_no_clear_difference_in_playtime_by_month_born.png" width="50%"/>
         </div>
     </th>
 </tr>
