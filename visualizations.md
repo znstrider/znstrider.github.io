@@ -3,4 +3,5 @@
 My Visualizations are done with Matplotlib if not noted otherwise.
 
 #### [Winnie the Pooh IMDB Ratings](https://github.com/znstrider/winnie_the_pooh/blob/master/winnie_the_pooh.ipynb)
+
 ![png](/examples/https://github.com/znstrider/winnie_the_pooh/blob/master/Winnie_the_Pooh_xkcd.png)
