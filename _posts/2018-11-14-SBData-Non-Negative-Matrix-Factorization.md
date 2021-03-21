@@ -1,4 +1,5 @@
 ---
+image: /images/2018-11-14-SBData-NMF_files/output_42_0.png
 ---
 
 ## Finding Patterns in Statsbomb Data: Non-Negative Matrix Factorization Applications

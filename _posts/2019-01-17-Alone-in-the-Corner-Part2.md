@@ -1,5 +1,6 @@
 ---
 theme: jekyll-theme-midnight
+image: /images/2019-01-17-Alone_in_the_Corner-Part2-Files/Corner_Delivery_Curves_L_R.png
 ---
 
 ### <center> Alone in the Corner - Part 2

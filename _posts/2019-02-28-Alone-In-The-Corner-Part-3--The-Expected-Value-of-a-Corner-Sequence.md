@@ -1,5 +1,6 @@
 ---
 theme: jekyll-theme-midnight
+image: /images/Alone_In_The_Corner_Part_3-The_Expected_Value_of_a_Corner_Sequence/What's%20the%20overall%20expected%20goal%20value%20from%20shots%20in%20corner%20sequences.png
 ---
 
 ### Alone in the Corner Part 3: The Expected Value of a Corner Sequence
