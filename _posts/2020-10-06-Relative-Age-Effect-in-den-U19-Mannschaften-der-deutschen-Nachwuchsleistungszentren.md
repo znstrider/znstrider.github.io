@@ -1,3 +1,7 @@
+---
+thumbnail-img: /images/RAE_files/gifs/player_development.gif
+---
+
 ### Der Relative Age Effect in deutschen Fußball Nachwuchsleistungszentren
 
 
