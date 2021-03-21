@@ -1,5 +1,6 @@
 ---
 theme: jekyll-theme-midnight
+thumbnail-img: /images/Alone_in_the_Corner_Files/Corner%20Delivery%20Zone%20Frequencies%20-%20World%20Cup%20-%20All%20Teams%20-%20Final%20Version___.png
 ---
 
 ### <center>Alone in the Corner
