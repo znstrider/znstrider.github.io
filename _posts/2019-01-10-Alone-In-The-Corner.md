@@ -53,7 +53,7 @@ Additionally, I had recently written an article on Non-Negative Matrix Factoriza
 The algorithm then learns n spatial components comprised of weights from all the bins and weights for each team which state how much a team uses a given spatial component.
 
 The benefits of this are that this reduces the complexity back into a managable size and allows us to find patterns inherit in the data.
-I described it in a little more detail [in my article here](https://github.com/znstrider/znstrider.github.io/blob/master/_posts/2018-11-14-SBData-NMF.md) if you are interested: 
+I described it in a little more detail [in my article here](https://github.com/znstrider/znstrider.github.io/blob/master/_posts/2018-11-14-SBData-NMF.md) if you are interested:
 
 Applying a 2x2 yard binning with n = 5, gave me the following spatial components:
 

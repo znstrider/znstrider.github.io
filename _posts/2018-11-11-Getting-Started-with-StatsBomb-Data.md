@@ -1,4 +1,6 @@
-
+---
+image: https://raw.githubusercontent.com/statsbomb/open-data/master/img/statsbomb-logo.jpg
+---
 
 # Getting Started with Statsbomb Data
 
@@ -33,7 +35,7 @@ from os.path import isfile, join
 '''
 Set mypath to your open-data-master/data/ path
 '''
-mypath = 
+mypath =
 
 
 # EVENTS AND FREEZE-FRAMES
@@ -50,12 +52,12 @@ for file in files:
     with open(mypath+'events/'+file) as data_file:
         #print (mypath+'events/'+file)
         data = json.load(data_file)
-        #get the nested structure into a dataframe 
+        #get the nested structure into a dataframe
         df = json_normalize(data, sep = "_").assign(match_id = file[:-5])
         #store the dataframe in a dictionary with the match id as key (remove '.json' from string)
         dfs[file[:-5]] = df.set_index('id')    
         shots = df.loc[df['type_name'] == 'Shot'].set_index('id')
-        
+
         #get the freeze frame information for every shot in the df
         for id_, row in shots.iterrows():
             try:
@@ -101,7 +103,7 @@ for file in files:
     with open(mypath+'matches/'+file) as data_file:
         #print (mypath+'lineups/'+file)
         data = json.load(data_file)
-        #get the nested structure into a dataframe 
+        #get the nested structure into a dataframe
         df_ = json_normalize(data, sep = "_")
         #store the dataframe in a dictionary with the competition id as key
         matches_dfs[file[:-5]] = df_
@@ -124,7 +126,7 @@ for file in files:
     with open(mypath+'lineups/'+file) as data_file:
         #print (mypath+'events/'+file)
         data = json.load(data_file)
-        #get the nested structure into a dataframe 
+        #get the nested structure into a dataframe
         df = json_normalize(data, sep = "_").assign(match_id = file[:-5])
         df_1 = json_normalize(df.lineup.iloc[0], sep = "_").assign(
                 team_id = df.team_id.iloc[0],
@@ -148,7 +150,7 @@ substitutions = events_df.loc[events_df.substitution_outcome_name.notnull(),
                     drop('id', axis = 1).\
                     rename(columns = {'level_0': 'match_id'}).\
                     set_index(['match_id'])
-                
+
 # assign all minutes played to the lineups_df
 a = lineups_df.reset_index().set_index('match_id').assign(minutes_played = match_lengths)
 
@@ -156,7 +158,7 @@ for idx, row in substitutions.iterrows():
     a.loc[(a.index == idx)&(a.player_name == row.player_name), 'minutes_played'] = row.minute
     a.loc[(a.index == idx)&(a.player_name == row.substitution_replacement_name), 'minutes_played'] = \
         a.loc[(a.index == idx)&(a.player_name == row.substitution_replacement_name), 'minutes_played'] - row.minute
-        
+
 lineups_df = a.reset_index().set_index(['match_id', 'index'])
 ```
 
@@ -760,5 +762,3 @@ lineups_df.head()
   </tbody>
 </table>
 </div>
-
-

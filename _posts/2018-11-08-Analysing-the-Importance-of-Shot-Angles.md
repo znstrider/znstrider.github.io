@@ -2,6 +2,7 @@
 theme: jekyll-theme-midnight
 image: /images/Analysing_the_Importance_of_Shot_Angles_files/open_goal_angles_black.png
 ---
+
 [Marek Kwiatkowski](https://statsbomb.com/2017/07/quantifying-finishing-skill/) and [Garry Gelade (1)](http://business-analytic.co.uk/blog/evaluating-expected-goals-models/) [(2)](http://business-analytic.co.uk/blog/assessing-expected-goals-models-part-2-anatomy-of-a-big-chance/) have included the visible angle of the goal (which is the angle at the shooter of the triangle shooter, left post, right post) in their xG-Models.
 
 What I have not seen is a visualization of those angles and a discussion of how this concept can be further utilized beyond the use as an explanatory variable in xG models.
