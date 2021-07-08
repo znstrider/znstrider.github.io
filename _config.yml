@@ -20,6 +20,7 @@ baseurl: ""
 
 # List of links in the navigation bar
 navbar-links:
+  Projects: "projects"
   Visualizations: "visualizations"
   About Me: "aboutme"
 
@@ -67,7 +68,7 @@ author:
 social-network-links:
   rss: true
   email: "mindfulstrider@gmail.com"
-#  facebook: 
+#  facebook:
   github: znstrider
   twitter: danzn1
 #  reddit: yourname
